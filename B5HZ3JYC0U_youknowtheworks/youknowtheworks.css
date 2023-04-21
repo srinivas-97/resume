@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #fba3ab;
+    background-size: cover;
+    max-width: 992px;
+    color: #2a2a63;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+
+}
+
+.caroline-heading {
+    font-size: min(5vw, 3.5em);
+}
+
+.icon-text {
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 10px;
+    color: #2a2a63;
+}
+
+.dot {
+    height: 10px;
+    margin-right: 6px;
+    width: 10px;
+    background-color: darkblue;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.icon-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid #2a2a63;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.intrests-wrapper {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    color: #fba3ab;
+    margin: auto;
+    background-color: darkblue;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.description {
+    font-weight: bold;
+}
+
+.description-box {
+    line-height: 1;
+    padding-bottom: 16px;
+}
+
+.ct-border-left {
+    border-left: solid 3px #2a2a63;
+
+}
+
+.ct-border-bottom {
+    border-bottom: solid 3px #2a2a63;
+}
